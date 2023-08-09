@@ -1,4 +1,4 @@
-![photo](https://raw.githubusercontent.com/millathossain115/ME/main/Profile%20Banner.png)
+![Millat Hossain Profile Banner](https://github.com/millathossain115/millathossain115/assets/49544603/9d9b65ab-89a6-4119-b0bf-8567d3524ea8)
 
 <h1 align="center">Hi 👋, I'm Millat Hossain</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
