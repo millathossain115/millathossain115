@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner%20LinkedIn-Github.png" alt="Millat Hossain profile banner" width="100%" />
+  <img src="./banner.webp" alt="Millat Hossain profile banner" width="100%" />
 </p>
 
 <h1 align="center"><code>Millat Hossain</code></h1>
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=millathossain115&label=Profile%20Views&color=800000&style=flat-square" alt="Profile views" />
+  <img src="https://hits.sh/github.com/millathossain115.svg?extraCount=1288&label=Profile%20Views&color=800000&labelColor=555555&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ## 🛠️ <code>TECH STACK</code>
 
-<p>
+<p align="center">
   <b>💻 <code>Frontend</code></b><br/>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
-<p>
+<p align="center">
   <b>⚙️ <code>Backend & APIs</code></b><br/>
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Zod-111827?style=for-the-badge&logo=zod&logoColor=3068B7" alt="Zod" />
   <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
 </p>
-<p>
+<p align="center">
   <b>🗄️ <code>Databases & ORM</code></b><br/>
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL" />
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
-<p>
+<p align="center">
   <b>🛠️ <code>Tools & DevOps</code></b><br/>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -119,7 +119,19 @@
 
 ---
 
-## 📫 <code>CONNECT WITH ME</code>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=millathossain115&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=800000&icon_color=800000&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=millathossain115&layout=compact&hide_border=true&bg_color=0d1117&title_color=800000&text_color=c9d1d9" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millathossain115&theme=dark&background=0d1117&border=800000&stroke=800000&ring=800000&fire=800000&currStreakLabel=800000" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://millathossain.vercel.app/">
@@ -136,3 +148,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" width="100%" />
 </p>
+
