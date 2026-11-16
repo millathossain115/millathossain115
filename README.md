@@ -122,8 +122,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=millathossain115&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=800000&icon_color=800000&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=millathossain115&layout=compact&hide_border=true&bg_color=0d1117&title_color=800000&text_color=c9d1d9" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=millathossain115&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=800000&icon_color=800000&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=millathossain115&layout=compact&hide_border=true&bg_color=0d1117&title_color=800000&text_color=c9d1d9" alt="Top Languages" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=millathossain115&theme=dark&background=0d1117&border=800000&stroke=800000&ring=800000&fire=800000&currStreakLabel=800000" alt="GitHub Streak" />
